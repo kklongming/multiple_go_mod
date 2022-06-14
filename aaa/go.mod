@@ -1,3 +1,3 @@
-module myquant.cn/dragonsunmoon/multiple_go_mod/aaa
+module github.com/kklongming/multiple_go_mod/aaa
 
 go 1.18
